@@ -1,0 +1,2 @@
+# DataVisualisation-SalesManager
+This Python code demonstrates how to use the pandas and plotly libraries to read, manipulate, and visualize sales data from a CSV file. By grouping the data by product and creating a bar chart, the code helps to identify which products are performing better than others. Coding this was helpful for learning how to use these popular libraries for data analysis and visualization in Python, which can be applied to a variety of real-world scenarios.
